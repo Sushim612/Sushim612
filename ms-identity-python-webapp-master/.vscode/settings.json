@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/ea619365-4a7e-4cd9-bb06-4f8436250fc2/resourceGroups/rg_sushimwebapp/providers/Microsoft.Web/sites/sushimADpythonwebapp",
+    "appService.deploySubpath": "."
+}
